@@ -1,0 +1,31 @@
+/* colors from w3 flower Palettes #b8a9c9 #5b9aa0 #622569 #d6d4e0 save for using sass */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #622569;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: #b8a9c9;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #d6d4e0;
+  }
+  
+  li a.active {
+    color: white;
+    background-color: #351439;
+  }

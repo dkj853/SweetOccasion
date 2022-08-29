@@ -1,0 +1,20 @@
+img {
+    width: 500px;
+    border-radius: 50%;
+    align-items: center;
+  }
+  .cake{
+    width: 100%;
+    justify-content: center;
+    align-content: center;
+  }
+.btn{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 1em;
+  color: blue;
+}
+.itemTitle{
+  text-align: center;
+  color: cornflowerblue;
+    
+}
